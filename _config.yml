@@ -1,8 +1,8 @@
 # Site settings
 title: JANINGERS PHOTOBOX
 description: "OnePage für die Photobox"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" "https://mingersming.github.io"
+url: "https://mingersming.github.io"
+baseurl: "/janingers-photobox"
 logo_url: svg/min/logo.png
 
 # Hero
