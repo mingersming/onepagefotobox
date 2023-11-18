@@ -1,9 +1,9 @@
 # Site settings
-title: DentistSmile | Dental Jekyll Theme
-description: "A responsive Jekyll theme for dental clinics."
+title: JANINGERS PHOTOBOX
+description: "OnePage für die Photobox"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the name of your domain
-logo_url: svg/min/logo.svg
+url: "" "https://mingersming.github.io"
+logo_url: svg/min/logo.png
 
 # Hero
 hero: 
@@ -41,7 +41,7 @@ facebook: http://facebook.com
 twitter: http://twitter.com
 instagram: http://instagram.com
 youtube: http://youtube.com
-skype: skype:obaez_design?userinfo
+skype: 
 feed: yes
 
 # Footer
